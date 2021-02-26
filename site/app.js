@@ -53,7 +53,7 @@ app.get('/info', function(req, res) {
     patientdata = {
       "personal": {
         "name": "Ralph DAlmeida",
-        "age": 38,
+        "age": 32,
         "gender": "male",
         "street": "34 Main Street",
         "city": "Toronto",
